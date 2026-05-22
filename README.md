@@ -1,0 +1,1 @@
+# factionsvr-skin-downloader
